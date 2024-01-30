@@ -1,4 +1,4 @@
-# NUS_DATATHON_SINGLIFE_124
+# NUS_DATATHON_SINGLIFE_NUS_124
 
 EDA.ipynb contains the initial stage of our project which includes our data cleaning and visualizations on the dataset given.
 
